@@ -186,7 +186,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      link: "https://gagl.io",
+      link: "https://gleeful-lily-ad0d35.netlify.app/",
       image: carrent,
     },
     {
